@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="text_main_cost">Kshs. %1$d</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_new">New</string>
+    <string name="detail_fill_all">Please fill all fields</string>
+    <string name="detail_successful_update">Successfully Updated</string>
+    <string name="detail_successful_add">Successfully Added</string>
+    <string name="detail_delete_prompt">Are you sure you want to delete</string>
+    <string name="detail_delete">Delete</string>
+    <string name="detail_cancel">Cancel</string>
+    <string name="detail_exit_prompt">Are you sure you want to exit without saving?</string>
+    <string name="detail_exit">Exit</string>
+    <string name="detail_product_name">Product name</string>
+    <string name="detail_price">Price</string>
+    <string name="detail_supplier">Supplier</string>
+    <string name="detail_contact">Contact</string>
+    <string name="detail_quantity">Quantity</string>
+    <string name="detail_button_subbtract">-</string>
+    <string name="detail_button_add">+</string>
+    <string name="main_no_items">No items in inventory. Add items by pressing +1</string>
+    <string name="item_button_sell">Sell</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_contact_supplier">Contact Supplier</string>
+    <string name="menu_add_dummy_data">Add dummy data</string>
+</resources>
